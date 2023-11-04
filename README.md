@@ -1,4 +1,4 @@
-#BatchMagic
+# BatchMagic
 
 Welcome to BatchMagic, your go-to source for efficient Windows batch scripts repository ! 🚀
 
