@@ -1,34 +1,34 @@
 # BatchMagic
 
-Welcome to BatchMagic, your go-to source for efficient Windows batch scripts repository ! 🚀
+I have made Batch scripts that have helped me streamline tasks. In this repositoryare handpicked selection of these scripts that could save you time and effort.
 
-I've always been fascinated by automation, and I've collected a variety of batch scripts that have helped me streamline tasks and enhance my computing experience. In this repository, you'll find a handpicked selection of these scripts, each designed to save you time and effort.
+## What BatchMagic Solves:
 
-**What BatchMagic Solves :**
+-   **Time-Saving Solutions:** Simplify your workflow for everyday tasks.
+-   **Flexibility:** Adapt and customize the scripts to match your own specific needs.
 
--   **Time-Saving Solutions :** Simplify your workflow with batch scripts tailored for everyday tasks.
--   **Versatility :** Explore a range of scripts suitable for beginners and advanced users alike.
--   **Flexibility :** Adapt and customize the scripts to match your specific needs.
+## List of Batch Scripts:
 
-## List of Batch Scripts added and usage :
+1. ### Check URLs Batch Script 
 
-1. ### Check URLs Batch Script 🌐
+   `check_urls.bat` is a lightweight Windows batch script that verifies URLs listed in `urls.txt` within your folder. Efficiently scan multiple web addresses, identify valid ones, and filter out 404 errors. Perfect for automating link validation and maintaining clean URL lists.
 
-`check_urls.bat` is a lightweight Windows batch script that verifies URLs listed in `urls.txt` within your folder. Efficiently scan multiple web addresses, identify valid ones, and filter out 404 errors. Perfect for automating link validation and maintaining clean URL lists.
+   #### Usage:
 
-*Usage:*
+   `check_urls.bat`
 
->`check_urls.bat`
+   #### What it does:
 
-*Features:*
-
--   Validates URLs in `urls.txt`.
--   Separates valid URLs and 404 errors into two separtae files `urls_valid.txt` and `urls_404.txt`.
--   Skips URLs where there has been a timeout due to connectivity issues.
+   -   Validates URLs in `urls.txt`.
+   -   Separates valid URLs and 404 errors into two separtae files `urls_valid.txt` and `urls_404.txt`.
+   -   Skips URLs where there has been a timeout due to connectivity issues.
 
 
-## Contributing :
+## Contribution:
 
-Feel free to explore, modify, and utilize these batch scripts to automate various tasks on your Windows system. Share and add scripts which have helped you out as well !
+Feel free to explore, modify, and utilize these batch scripts to automate various tasks on your Windows system. Share and add scripts which have helped you out as well.
 
-Let the magic of automation help you speed up tasks and let you do more ✨
+## Other magical repositories:
+
+- [**PythonMagic**](https://github.com/himanshuxd/PythonMagic) - Speed up Data Science workflows with Python scripts.
+- [**AHKMagic**](https://github.com/himanshuxd/AHKMagic) - Automate Windows tasks with AutoHotKey scripts.
